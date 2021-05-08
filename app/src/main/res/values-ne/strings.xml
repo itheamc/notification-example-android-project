@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">सूचनाको उदाहरण</string>
+    <string name="text_view_text">यो एउटा textview हो।</string>
+    <string name="button_text">भाषा परिवर्तन गर्नुहोस्।</string>
+</resources>
